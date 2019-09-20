@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="refresh_btn_size">50dip</dimen>
+    <dimen name="refresh_btn_margin">7dip</dimen>
+</resources>
