@@ -10,7 +10,12 @@ So developer can add the C-language level encryption-decription functions to thi
 
 
 ## Skills
-    - Flutter
+    - Android
+    - ExoPlayer
+    - Vidoe Play
+    - JAVA
+    - JNI
+    - C
 
 
 ## Contact Info
